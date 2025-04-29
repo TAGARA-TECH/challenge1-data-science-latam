@@ -31,7 +31,7 @@ Este proyecto consiste en analizar los datos de ventas de las 4 tiendas de la ca
 - [Pandas](https://pandas.pydata.org/) - Manipulación de datos
 - [Matplotlib](https://matplotlib.org/) - Visualización
 - [Google Colab](https://colab.research.google.com/) - Entorno de análisis
-- Git + GitHub - Control de versiones
+- [Git + Github](https://github.com/) - Control de Versiones
 
 ---
 
