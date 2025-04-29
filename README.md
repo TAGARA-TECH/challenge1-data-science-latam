@@ -27,7 +27,7 @@ Este proyecto consiste en analizar los datos de ventas de las 4 tiendas de la ca
 
 ## 🛠️ Herramientas utilizadas
 
-- [Python 3] (https://www.python.org/)- Lenguaje
+- [Python 3](https://python.org/) - Lenguaje
 - [Pandas](https://pandas.pydata.org/) - Manipulación de datos
 - [Matplotlib](https://matplotlib.org/) - Visualización
 - [Google Colab](https://colab.research.google.com/) - Entorno de análisis
